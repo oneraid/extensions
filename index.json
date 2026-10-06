@@ -12,12 +12,12 @@
         "name": "MikoRoku",
         "packageName": "eu.kanade.tachiyomi.extension.id.mikoroku",
         "resources": {
-          "apkUrl": "https://github.com/oneraid/extensions/raw/repo/apk/tachiyomi-id.mikoroku-v1.6.25.apk",
+          "apkUrl": "https://github.com/oneraid/extensions/raw/repo/apk/tachiyomi-id.mikoroku-v1.6.26.apk",
           "iconUrl": "https://github.com/oneraid/extensions/raw/repo/icon/eu.kanade.tachiyomi.extension.id.mikoroku.png"
         },
         "extensionLib": "1.6",
-        "versionCode": "106025",
-        "versionName": "1.6.25",
+        "versionCode": "106026",
+        "versionName": "1.6.26",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
