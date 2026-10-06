@@ -1,6 +1,11 @@
 {
   "name": "Oneraid Extensions",
   "badgeLabel": "ONE",
+  "signingKey": "7ff7b14449b366cc5e91810774790bb5f8f7932a1d63cf29f66ffc3f490699d7",
+  "contact": {
+    "website": "https://github.com/oneraid/extensions",
+    "discord": "https://github.com/oneraid"
+  },
   "extensionList": {
     "extensions": [
       {
